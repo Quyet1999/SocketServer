@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\SocketServer\SocketClient\obj\Debug\SocketClient.Form1.resources
+C:\Users\admin\source\repos\SocketServer\SocketClient\obj\Debug\SocketClient.Properties.Resources.resources
+C:\Users\admin\source\repos\SocketServer\SocketClient\obj\Debug\SocketClient.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\SocketServer\SocketClient\obj\Debug\SocketClient.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\SocketServer\SocketClient\obj\Debug\SocketClient.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\SocketServer\SocketClient\bin\Debug\SocketClient.exe.config
+C:\Users\admin\source\repos\SocketServer\SocketClient\bin\Debug\SocketClient.exe
+C:\Users\admin\source\repos\SocketServer\SocketClient\bin\Debug\SocketClient.pdb
+C:\Users\admin\source\repos\SocketServer\SocketClient\bin\Debug\Common.dll
+C:\Users\admin\source\repos\SocketServer\SocketClient\bin\Debug\Common.pdb
+C:\Users\admin\source\repos\SocketServer\SocketClient\obj\Debug\SocketClient.csproj.CopyComplete
+C:\Users\admin\source\repos\SocketServer\SocketClient\obj\Debug\SocketClient.exe
+C:\Users\admin\source\repos\SocketServer\SocketClient\obj\Debug\SocketClient.pdb
+C:\Users\admin\source\repos\SocketServer\SocketClient\obj\Debug\SocketClient.LockScreen.resources
